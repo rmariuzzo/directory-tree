@@ -26,6 +26,7 @@ module.exports = {
     '@typescript-eslint/member-delimiter-style': 'off',
     'react/prop-types': 'off',
     'no-extra-semi': 'off',
+    '@typescript-eslint/no-use-before-define': 'off',
   },
   settings: {
     react: {

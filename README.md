@@ -1,2 +1,2 @@
 # tree
-Generate a tree of directories.
+Generate a directory tree.
