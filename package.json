@@ -1,6 +1,6 @@
 {
   "name": "rmariuzzo-tree",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "description": "Generate a tree of directories.",
   "author": "Rubens Mariuzzo <rubens@mariuzzo.com>",
